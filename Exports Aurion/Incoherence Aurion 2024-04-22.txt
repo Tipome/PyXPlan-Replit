@@ -1,0 +1,10 @@
+Aucune correspondance trouvée dans le planning Aurion pour l'événement FP : ,20-06-2024 10h15 ,BRIEF ABES
+4 salles
+Aucune correspondance trouvée dans le planning Aurion pour l'événement FP : ,20-06-2024 14h15 ,SIMU ABES GrB
+SimOne GrA
+Aucune correspondance trouvée dans le planning Aurion pour l'événement FP : ,20-06-2024 16h15 ,SIMU ABES GrD
+SimOne GrC
+Aucune correspondance trouvée dans le planning Aurion pour l'événement FP : ,21-06-2024 08h00 ,SIMU ABES GrA
+SimOne GrB
+Aucune correspondance trouvée dans le planning Aurion pour l'événement FP : ,21-06-2024 14h15 ,SIMU ABES GrC
+SimOne GrD

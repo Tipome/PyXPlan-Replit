@@ -1,0 +1,30 @@
+Objet de PyXPlan : créer un calendrier ics pour la formation pratique avec les salles et vérification des plannings Aurion
+
+Utilisation de PyXplan :
+1 - Enregistrer le planning FP semestriel se trouvant dans l'équipe  "Teams / Programmation", onglet Fichiers (EDT FP)
+
+2 - Extraire d'Aurion un fichier ics de la promo :
+        Ouvrir Aurion puis se connecter, et dans Aurion :
+        PLANNINGS > Planning de toutes les promos > chercher la promo et "Voir planning" > sélectionner la date de début et l'affichage "Mois"
+        Télécharger (bouton en bas de page)
+
+3 - Ouvrir PyXPlan
+  - Sélectionner le fichier Excel planning FP téléchargé
+    [ Rmq : À partir de ce fichier, PyXPlan peut générer un fichier ics utilisable dans les agendas mais il n'y aura pas les salles ni le détail des groupes d'élèves
+    Pour ce faire, ne pas sélectionner de fichier Aurion et cocher la case "Choisir période" pour n'extraire qu'une période donnée ]
+
+  - Indiquer le nom de la promo
+
+  - Générer la vérification avec Aurion et générer le planning consolidé en cliquant sur "Générer ics consolidé" :
+      La fenêtre indique si des erreurs ont été détectées.
+      Le cas échéant, un fichier des incohérences Aurion est créé pour pouvoir l'envoyer au BDP pour modification d'Aurion
+      Le fichier consolidé contient tous les éléments extraits d'Aurion (groupes et salles) ainsi que les Harmo, Bilan Réf, etc issus du planning FP.
+      Il peut être directement intégré aux agendas Google, Outlook, etc...
+
+Les fichiers des incohérences et Aurion consolidé sont enregistrés dans le répertoire nommé "Exports Aurion"
+
+   
+En cas de problème ou d'idée d'amélioration, contacter Olivier Ternisien
+ 
+
+ 

@@ -1,0 +1,1 @@
+Ouverture impossible de MCTA22B 9 30 2024-10-15 .icsdans fonction check_aurion_fp ouverture fichier ics PyXPlan : 'filep'
